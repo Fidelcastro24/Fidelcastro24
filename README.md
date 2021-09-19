@@ -14,7 +14,7 @@ export default class ME implements IUser {
     public static firstName = 'Fidel'
     public static lastName = 'Castro'
     public static username = 'Fidelcastro24'
-    public static aliases = ['Shin']
+    public static aliases = ['Fidel']
     public static skills = [
         'TypeScript', 
         'JavaScript', 
