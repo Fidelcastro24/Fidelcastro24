@@ -25,7 +25,7 @@ export default class ME implements IUser {
 
     ], 
     public static info = {
-        age: 15,
+        age: 17,
         country: 'Texas',
         org: 'None',
         likes: [
