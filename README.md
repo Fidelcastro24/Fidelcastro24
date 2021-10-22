@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋 I'm Fidel Castro🤭 </h1>
 <h3 align="center">I'm Just A Sad Machine😔</h3>
 
-<img align="right" alt="pic" height="256px" src="https://i.imgur.com/SHvtRot.jpeg" />
+<img align="middle" alt="pic" height="256px" src="https://i.imgur.com/SHvtRot.jpeg" />
 
 ![Profile views](https://gpvc.arturio.dev/Fidelcastro24)  ![Last Modified](https://img.shields.io/github/last-commit/Fidelcastro24/Fidelcastro24?style=flat)
 
