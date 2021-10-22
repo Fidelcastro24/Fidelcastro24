@@ -46,7 +46,7 @@ export default class ME implements IUser {
             },
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/254771420597?text=Hmm'
+                url: 'https://wa.me/15614621336?text=Hmm'
             },
             {
                 name: contact.Instagram
