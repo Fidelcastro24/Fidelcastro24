@@ -23,4 +23,44 @@
 
 ## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
+<h3>Stuff I know (sort of)</h3>
+</div> </div>
+35
+<div align="center">
+<div align="center">
+<!-- <h3>Stuff I know (sort of)</h3> -->
+  <a href= 'https://www.typescriptlang.org'>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+ <a href= 'https://www.javascript.com'>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </a>
+   <a href= 'https://nodejs.org/en/'>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
+   <a href= 'https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+   <a href= 'https://www.mongodb.com'>
+<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  </a>
+   <a href= 'https://www.tensorflow.org'>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  </a>
+   <a href= 'https://pptr.dev'>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" />
+  </a>
+     <a href= 'https://aws.amazon.com/?nc2=h_lg'>
+<img src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+     <a href= 'https://dashboard.heroku.com'>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+     <a href= ''>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+ <!-- <p align="center"> -->
+<!-- </p> -->
 
