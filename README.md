@@ -1,4 +1,4 @@
-<h1 align="center">Yo 🤍 I'm Fidel Castro </h1>
+<h1 align="center">Hello There👋 I'm Fidel Castro🤭 </h1>
 <h3 align="center">I'm Just A Sad Machine😔</h3>
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
@@ -25,7 +25,6 @@
 **Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
 <h3>Stuff I know (sort of)</h3>
 </div> </div>
-35
 <div align="center">
 <div align="center">
 <!-- <h3>Stuff I know (sort of)</h3> -->
