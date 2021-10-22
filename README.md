@@ -1,4 +1,4 @@
-<h1 align="center">Yo 🤍, I'm Fidel Castro </h1>
+<h1 align="center">Yo 🤍 I'm Fidel Castro </h1>
 <h3 align="center">I'm Just A Sad Machine😔</h3>
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
@@ -22,5 +22,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomnathDas&theme=dark&show_icons=true)  
 
 ## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
-**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/aksd3247)  
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
 
