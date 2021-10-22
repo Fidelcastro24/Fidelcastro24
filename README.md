@@ -1,6 +1,5 @@
-<div align=center>
-    
-![Fidelcastro24]([<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/_BSSJi-sHh8)
+[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/_BSSJi-sHh8)    
+
 ### Hmm...
 
 </div>
