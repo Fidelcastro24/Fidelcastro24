@@ -1,5 +1,5 @@
-<h1 align="center">Yo 🤍, I'𝙵𝙸𝙳𝙴𝙻 𝙲𝙰𝚂𝚃𝚁𝙾 </h1>
-<h3 align="center">"𝖎'𝖒 𝖆𝖑𝖜𝖆𝖞𝖘 𝖆 𝖘𝖆𝖉 𝖒𝖆𝖈𝖍𝖎𝖓𝖊😔."</h3>
+<h1 align="center">Yo 🤍, I'm Fidel Castro </h1>
+<h3 align="center">I'm Just A Sad Machine😔"</h3>
 
 <img align="right" alt="GIF" height="256px" src="https://www.moshimoshi-nippon.jp/wp/wp-content/uploads/2019/03/ce2c5d872439fecd6a0eead73628db8f.jpg" />
 
