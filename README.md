@@ -1,6 +1,6 @@
 <div align=center>
     
-![Fidelcastro24](https://tenor.com/bdIPc.gif)
+![Fidelcastro24](https://user-images.githubusercontent.com/https://tenor.com/bdIPc.gif)
 ### Hmm...
 
 </div>
