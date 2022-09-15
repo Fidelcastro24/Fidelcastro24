@@ -187,8 +187,5 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fidelcastro24&show_icons=true&theme=nightowl" alt="Fidel Castro" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelcastro24&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Fidel Castro"/></p></a><br> 
 
