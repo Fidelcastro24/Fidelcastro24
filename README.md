@@ -22,7 +22,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelcastro24&theme=dark&show_icons=true)  
 
 ## Follow me on `ヾ(・ω・)ノヾ(・ω・)ノ゛`
-**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/firelord.26/) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/Fidelcastro24) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://instagram.com/fidelcastromods) | **Twitter** [<img src="https://img.icons8.com/nolan/240/twitter.png" alt='twitter' height='32'>](https://twitter.com/Tech3Slayer)  
 <h3>Stuff I know (sort of)</h3>
 </div> </div>
 <div align="center">
