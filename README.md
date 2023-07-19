@@ -3,7 +3,7 @@
 
 <img align="middle" alt="pic" height="256px" src="https://64.media.tumblr.com/1925d217cae660763f9af6956ee70cac/tumblr_o0nxgebXGt1ub9qlao1_500.gifv" />
 
-[![Last Modified](https://img.shields.io/github/last-commit/Fidelcastro24/Fidelcastro24?style=flat)
+![Last Modified](https://img.shields.io/github/last-commit/Fidelcastro24/Fidelcastro24?style=flat)
 
 **Learning stuffs while vibing to BulletProof Nightcore music**
 
