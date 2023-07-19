@@ -5,7 +5,7 @@
 
 ![Last Modified](https://img.shields.io/github/last-commit/Fidelcastro24/Fidelcastro24?style=flat)
 
-**Learning stuffs while vibing to BulletProof Nightcore music** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
+**Learning stuffs while vibing to BulletProof Nightcore music** 
 
 - 📖 Primary Languages => ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
